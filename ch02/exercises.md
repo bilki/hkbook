@@ -8,3 +8,19 @@ Chapter 2 exercises
     * circleArea r = 3.14 \* square r
 
 3. circleArea r = pi \* square r
+
+---
+
+1. a) and b) yield different results because * has precedence over +
+
+2. same results
+
+3. a) and b) yield different results because / has precedence over +
+
+---
+
+1. erroneous space in `3. 14`
+
+2. invalid bound variable `b`
+
+3. erroneous space before `y = 10`
